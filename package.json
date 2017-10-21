@@ -1,0 +1,14 @@
+{
+  "name": "hackharvard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "what-dog": "^1.0.4"
+  }
+}
